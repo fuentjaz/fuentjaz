@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Jazmín 👋</h1>
 
-<!--
-**fuentjaz/fuentjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Psicóloga | 📊 Científica de Datos en formación | 🤖 Amante del aprendizaje constante
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="data gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Sobre mí
+
+Soy egresada de Psicología por la UNAM (FES Iztacala) y actualmente me formo como Científica de Datos en **TripleTen Latam**. Me apasiona explorar cómo los datos pueden transformar decisiones humanas, mejorar procesos organizacionales y generar impacto positivo.
+
+🎯 Intereses:
+- Ciencia de Datos aplicada a Recursos Humanos
+- Comportamiento Organizacional
+- Visualización y Storytelling con datos
+- Predicción y automatización con Machine Learning
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📂 Proyectos destacados
+
+Haz clic en los repos anclados para explorar mi trabajo.
+
+| Proyecto | Descripción |
+|---------|-------------|
+| 🛒 **Instacart Market Basket Analysis** | Análisis de comportamiento de compra de usuarios. |
+| 📉 **Predicción con Machine Learning** | Modelos para clasificar o predecir con datos reales. |
+| 📊 **Visualización y storytelling** | Dashboards e insights accesibles y claros. |
+
+📌 Más proyectos en la sección *"Pinned repositories"*.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fuentjaz&show_icons=true&hide_title=true&hide_rank=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuentjaz&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌱 Actualmente estoy aprendiendo
+
+- Tableau y Power BI para visualizaciones interactivas
+- NLP y clasificación de texto
+- Mejores prácticas de ingeniería de datos
+
+---
+
+### 📬 ¿Conectamos?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazmín-alejandra-fuentes-santiago)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jazminafuentes.psi@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="analyzing gif">
+</p>
+
+<p align="center">
+✨ “Transformar datos en decisiones es mi forma de entender al mundo.” ✨
+</p>
+
