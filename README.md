@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-<<<<<<< fuentjaz-patch-1
   <img src="https://media.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif" width="200" alt="data gif">
 </p>
 
@@ -83,7 +82,6 @@ Haz clic en los repos anclados para explorar mi trabajo.
 </p>
 
 <p align="center">
-<<<<<<< fuentjaz-patch-1
   
 >*“El análisis de datos es una forma de comprender el comportamiento humano, optimizar decisiones y construir un futuro más justo y eficiente.” ✨*
 
