@@ -1,11 +1,14 @@
-<h1 align="center">Hola, soy Jazmín 👋</h1>
+
+<h1 align="center">Bienvenidx, soy Jaz! 😃 </h1>
 
 <p align="center">
 🎓 Psicóloga | 📊 Científica de Datos en formación | 🤖 Amante del aprendizaje constante
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="data gif">
+
+  <img src="https://media.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif" width="200" alt="data gif">
+ 
 </p>
 
 ---
@@ -67,8 +70,14 @@ Haz clic en los repos anclados para explorar mi trabajo.
 
 ### 📬 ¿Conectamos?
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fuentjaz)
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuentessantiagojazmin@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazmín-alejandra-fuentes-santiago)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jazminafuentes.psi@gmail.com)
+
 
 ---
 
@@ -77,6 +86,9 @@ Haz clic en los repos anclados para explorar mi trabajo.
 </p>
 
 <p align="center">
-✨ “Transformar datos en decisiones es mi forma de entender al mundo.” ✨
+
+  
+>*“El análisis de datos es una forma de comprender el comportamiento humano, optimizar decisiones y construir un futuro más justo y eficiente.” ✨*
+
 </p>
 
