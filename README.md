@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenidx, soy Jaz! 😃 </h1>
+<h1 align="center">Bienvenidos, soy Jaz Fuentes! </h1>
 
 <p align="center">
 🎓 Psicóloga | 📊 Científica de Datos en formación | 🤖 Amante del aprendizaje constante
