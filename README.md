@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenidos, soy Jaz Fuentes! </h1>
 
 <p align="center">
-🎓 Psicóloga | 📊 Científica de Datos en formación | 🤖 Amante del aprendizaje constante
+🎓 Psicóloga | 📊 Científica de Datos en formación | 🤖 Amante del aprendizaje
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 💡 Sobre mí
 
-Soy egresada de Psicología por la UNAM (FES Iztacala) y actualmente me formo como Científica de Datos en **TripleTen Latam**. Me apasiona explorar cómo los datos pueden transformar decisiones humanas, mejorar procesos organizacionales y generar impacto positivo.
+Soy egresada de Psicología por la UNAM (FES Iztacala) y cuento con una certificación de Ciencia de Datos en **TripleTen Latam**. Me apasiona explorar cómo los datos pueden transformar decisiones humanas, mejorar procesos organizacionales y generar impacto positivo.
 
 🎯 Intereses:
 - Ciencia de Datos aplicada a Recursos Humanos
