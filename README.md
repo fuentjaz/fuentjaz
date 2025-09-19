@@ -1,4 +1,4 @@
-<h1 align="center">🌸 ¡Hola! Soy Jazmin Fuentes 🌸</h1>
+<h1 align="center"> ¡Hola! Soy Jazmin Fuentes </h1>
 
 <p align="center">
 🎓 Psicóloga | 📊 Científica de Datos | 💕 People Analytics | 🌱 Lifelong Learner
@@ -28,7 +28,7 @@ Me encanta unir lo **analítico y lo humano**, transformando **datos en estrateg
 
 ---
 
-## 🎀 Mis superpoderes (skills)
+## 🎀 Skills
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-ffe6e6?style=for-the-badge&logo=python&logoColor=3776AB" />
