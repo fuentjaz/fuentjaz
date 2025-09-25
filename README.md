@@ -1,12 +1,12 @@
 <h1 align="center"> ¡Hola! Soy Jazmin Fuentes </h1>
 
-<p align="center">
-🎓 Psicóloga | 📊 Científica de Datos | 💕 People Analytics | 🌱 Lifelong Learner
-</p>
+<h3 align="center">
+“Los datos cuentan historias... yo los traduzco en decisiones humanas que transforman organizaciones.” 📊 
+</h3>
 
 ---
 
-## 💌 ¿Conectamos?
+## ¿Conectamos?
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fuentjaz">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌷 Sobre mí
+## Sobre mí
 
 Soy **Licenciada en Psicología (UNAM)** con una certificación en **Ciencia de Datos (TripleTen Latam)**.  
 Me encanta unir lo **analítico y lo humano**, transformando **datos en estrategias** que mejoren el bienestar de las personas y los resultados de los negocios.  
@@ -28,7 +28,7 @@ Me encanta unir lo **analítico y lo humano**, transformando **datos en estrateg
 
 ---
 
-## 🎀 Skills
+## Skills
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-ffe6e6?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -52,15 +52,8 @@ Me encanta unir lo **analítico y lo humano**, transformando **datos en estrateg
 
 ---
 
-## 🌸 Actualmente aprendiendo
 
-- Visualizaciones **más interactivas** con Power BI ✨  
-- **NLP y análisis de texto** aplicado a psicología 💡  
-- **Optimización de modelos predictivos** 📈  
-
----
-
-## 🌈 Mis stats en GitHub
+## Mis stats en GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fuentjaz&show_icons=true&title_color=f5a9c5&icon_color=f3c4fb&text_color=9ab6f3&bg_color=fff0f5&hide_border=true" />
@@ -74,5 +67,5 @@ Me encanta unir lo **analítico y lo humano**, transformando **datos en estrateg
 </p>
 
 <p align="center"><i>
-🌸 “Los datos cuentan historias... yo los traduzco en decisiones humanas que transforman organizaciones.” 🌸
+
 </i></p>
