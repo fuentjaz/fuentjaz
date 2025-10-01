@@ -41,18 +41,6 @@ Me encanta unir lo **analítico y lo humano**, transformando **datos en estrateg
 
 ---
 
-## 📂 Proyectos destacados
-
-| 🌟 Proyecto | 📖 Descripción | 🛠️ Tecnologías |
-|-------------|---------------|----------------|
-| 🛒 **Instacart Market Basket Analysis** | Insights sobre el comportamiento de compra. | Python, Pandas, SQL |
-| 📉 **Modelos Predictivos** | Clasificación y predicciones con Machine Learning. | Python, scikit-learn |
-| 📊 **Storytelling con Datos** | Dashboards lindos y fáciles de entender. | Power BI, Tableau |
-| 💕 **People Analytics Demo** | Estrategias de HR con un enfoque humano. | Python, Power BI |
-
----
-
-
 ## Mis stats en GitHub
 
 <p align="center">
